@@ -1,0 +1,6 @@
+# Local data and database files
+data/
+*.duckdb
+*.db
+*.sqlite
+.DS_Store
